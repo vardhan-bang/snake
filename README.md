@@ -1,2 +1,2 @@
 # snake
-### snake game in x86_64 (fasm)
+### Snake game in x86_64 (fasm)
